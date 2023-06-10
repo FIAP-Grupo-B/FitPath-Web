@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e5af4a06.css",
+    "main.js": "./static/js/main.4883852b.js",
+    "static/media/mantrainning.png": "./static/media/mantrainning.be19717ea538a4ae095d.png",
+    "static/media/verde-branco.png": "./static/media/verde-branco.1e023137b321ef05411a.png",
+    "static/media/comida.png": "./static/media/comida.be6f58580048158a946f.png",
+    "static/media/basket.png": "./static/media/basket.b69a9a293733e4a76f90.png",
+    "static/media/logo-cinza.png": "./static/media/logo-cinza.8764593cf6feb36a1f7e.png",
+    "static/media/whey.png": "./static/media/whey.832da6a4297e9d3e6f25.png",
+    "static/media/halter.png": "./static/media/halter.ade495488c40c545d9d6.png",
+    "static/media/brazil.png": "./static/media/brazil.921b37277e4de9dc459f.png",
+    "index.html": "./index.html",
+    "main.e5af4a06.css.map": "./static/css/main.e5af4a06.css.map",
+    "main.4883852b.js.map": "./static/js/main.4883852b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5af4a06.css",
+    "static/js/main.4883852b.js"
+  ]
+}
