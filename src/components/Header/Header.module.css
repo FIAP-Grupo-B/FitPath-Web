@@ -1,0 +1,28 @@
+.header{
+    background: 0% 0% no-repeat padding-box padding-box rgba(255, 255, 255, 0.84);
+    opacity: 1;
+    backdrop-filter: blur(24px);
+    height: 80px;
+    min-height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+    z-index: 1001;
+}
+
+.logo {
+    margin-left: 1rem;
+    cursor: pointer;
+    width: 4.5rem;
+    height: 4rem;
+}
+
+@media (max-width: 768px){
+    .logo {
+        width: 4rem;
+        height: 2rem;
+    }
+}
+
